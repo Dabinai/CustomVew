@@ -10,7 +10,7 @@ import android.util.AttributeSet;
 import android.view.View;
 
 /**
- * Created by Dabin on 2017/10/9.
+ * Created by Dabin on 2017/4/9.
  */
 
 public class MyView extends View {
